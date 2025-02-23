@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Liyan Mubarak</h1>
-<h3 align="center">A passionate MEAN fullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LIYANMUBARAK](https://github.com/LIYANMUBARAK)
 
-- 💬 Ask me about **Angular,Node.js,NestJS,JavaScript,TypeScript**
+- 💬 Ask me about **Angular, Node.js, NestJS, JavaScript, TypeScript, GCP, Firebase**
 
 - 📫 How to reach me **liyanmubarakc@gmail.com**
 
